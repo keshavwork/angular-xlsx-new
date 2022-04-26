@@ -1,5 +1,5 @@
 {
-  "name": "ng-xlsx-new",
+  "name": "angular-xlsx-new",
   "version": "0.0.1",
   "description": "Angular service for the xslx-js library",
   "main": "index.js",
