@@ -3,19 +3,17 @@
   "version": "0.0.1",
   "description": "Angular service for the xslx-js library",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/keshavwork/ng-xlsx-new.git"
+    "url": "https://github.com/keshavwork/angular-xlsx-new.git"
   },
   "author": "Keshav",
   "license": "Apache",
   "bugs": {
-    "url": "https://github.com/keshavwork/ng-xlsx-new/issues"
+    "url": "https://github.com/keshavwork/angular-xlsx-new/issues"
   },
-  "homepage": "https://github.com/keshavwork/ng-xlsx-new",
+  "homepage": "https://github.com/keshavwork/angular-xlsx-new",
   "devDependencies": {
     "connect-livereload": "^0.5.3",
     "grunt": "^0.4.5",
