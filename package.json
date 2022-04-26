@@ -1,5 +1,5 @@
 {
-  "name": "ng-xslx",
+  "name": "ng-xlsx-new",
   "version": "0.0.1",
   "description": "Angular service for the xslx-js library",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/keshavwork/ng-xlsx.git"
+    "url": "https://github.com/keshavwork/ng-xlsx-new.git"
   },
   "author": "Sander Rijken",
   "license": "Apache",
   "bugs": {
-    "url": "https://github.com/keshavwork/ng-xslx/issues"
+    "url": "https://github.com/keshavwork/ng-xlsx-new/issues"
   },
-  "homepage": "https://github.com/keshavwork/ng-xslx",
+  "homepage": "https://github.com/keshavwork/ng-xlsx-new",
   "devDependencies": {
     "connect-livereload": "^0.5.3",
     "grunt": "^0.4.5",
