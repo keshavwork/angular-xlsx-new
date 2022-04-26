@@ -2,7 +2,7 @@
 
 Installation
 
-    bower install --save angular-xlsx
+    bower install --save angular-xlsx-new
 
 Usage
 
