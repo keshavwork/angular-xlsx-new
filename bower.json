@@ -3,6 +3,7 @@
   "version": "0.4.5",
   "license": "MIT",
   "main": "angular-xlsx-new.js",
+  "private": false,
   "dependencies": {
     "js-xlsx": "~0.8.0",
     "angular": "~1.5.5",
