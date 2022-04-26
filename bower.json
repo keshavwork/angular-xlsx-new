@@ -2,7 +2,7 @@
   "name": "angular-xlsx-new",
   "version": "0.4.5",
   "license": "Apache",
-  "main": "angular-xlsx.js",
+  "main": "angular-xlsx-new.js",
   "dependencies": {
     "js-xlsx": "~0.8.0",
     "angular": "~1.5.5",
