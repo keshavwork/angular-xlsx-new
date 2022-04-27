@@ -11,7 +11,7 @@
   "dependencies": {
     "js-xlsx": "~0.8.0",
     "angular": "~1.5.5",
-    "file-saver-saveas-js": "https://github.com/eligrey/FileSaver.js.git#^1.1.4"
+    "file-saver": "https://github.com/eligrey/FileSaver.js.git#^1.1.4"
   },
   "ignore": [
     "**/.*",
